@@ -35,8 +35,10 @@ This analysis examines Nigeria's GDP from 2020 to 2024, offering a detailed over
 ## Dashboard Insights 
 
 ### Overview 
+![Data Modelling in Power BI](https://github.com/Sorbari2016/Nigeria-GDP-Analysis/blob/main/images/GDP%20Analysis%20-%20Default%20view.png)
 
 ### GDP by Sector
+![Data Modelling in Power BI](https://github.com/Sorbari2016/Nigeria-GDP-Analysis/blob/main/images/GDP%20Analysis%20-%20Sector%20view.png)
 
 ## Recommendations 
 
